@@ -23,3 +23,10 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch questionnaire.sh
 echo hello bash
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+ls --color=auto
+rm questionnaire.sh
+ls --color=auto
+touch questionnaire.sh
