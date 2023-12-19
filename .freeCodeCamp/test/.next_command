@@ -58,3 +58,5 @@ __vsc_prompt_cmd_original
 ./questionnaire.sh
 echo $QUESTION1
 ./questionnaire.sh
+__vsc_prompt_cmd_original
+echo hello $name
