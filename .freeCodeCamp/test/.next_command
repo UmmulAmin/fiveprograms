@@ -36,3 +36,4 @@ echo hello questionnaire
 echo hello questionnaire
 echo hello questionnaire
 echo hello questionnaire
+sh questionnaire.sh
