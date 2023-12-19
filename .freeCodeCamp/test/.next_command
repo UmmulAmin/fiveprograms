@@ -75,3 +75,4 @@ chmod +x countdown.sh
 bash countdown.sh
 sh countdown.sh
 which bash
+./countdown.sh
