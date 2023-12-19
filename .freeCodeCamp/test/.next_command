@@ -122,3 +122,4 @@ man sleep
 ./countdown.sh 10 sleep 3
 sleep 3
 ./countdown.sh 3
+./countdown.sh 3
