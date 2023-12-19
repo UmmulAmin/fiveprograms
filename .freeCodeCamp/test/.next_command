@@ -107,3 +107,4 @@ help test
 help test
 [[ -x countdown.sh ]]
 [[ -x countdown.sh ]]
+help [[
