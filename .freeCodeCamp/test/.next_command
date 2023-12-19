@@ -61,3 +61,4 @@ echo $QUESTION1
 __vsc_prompt_cmd_original
 echo hello $name
 ./questionnaire.sh
+./questionnaire.sh
