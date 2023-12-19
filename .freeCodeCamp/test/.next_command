@@ -30,3 +30,9 @@ ls --color=auto
 rm questionnaire.sh
 ls --color=auto
 touch questionnaire.sh
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+echo hello questionnaire
+echo hello questionnaire
+echo hello questionnaire
+echo hello questionnaire
