@@ -76,3 +76,4 @@ bash countdown.sh
 sh countdown.sh
 which bash
 ./countdown.sh
+./countdown.sh arg1 arg2 arg3
