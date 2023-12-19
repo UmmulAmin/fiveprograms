@@ -72,3 +72,5 @@ man echo
 touch countdown.sh
 ls --color=auto -l
 chmod +x countdown.sh
+bash countdown.sh
+sh countdown.sh
