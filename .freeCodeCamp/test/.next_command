@@ -229,3 +229,4 @@ help until
 help [[ expression ]]
 __vsc_prompt_cmd_original
 [[ hello == hello ]]
+[[ hello == world ]]
