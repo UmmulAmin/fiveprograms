@@ -211,3 +211,4 @@ chmod +x fortune.sh
 ./bingo.sh
 ./fortune.sh
 ARR=("a" "b" "c")
+echo ${ARR[1]}
